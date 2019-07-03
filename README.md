@@ -69,3 +69,11 @@ https://www.quora.com/In-what-kind-of-real-life-situations-can-we-use-a-multi-ar
 - https://stats.stackexchange.com/questions/230523/in-what-kind-of-real-life-situations-can-we-use-a-multi-arm-bandit-algorithm
 - https://www.quora.com/In-what-kind-of-real-life-situations-can-we-use-a-multi-arm-bandit-algorithm
 http://blog.yhat.com/posts/the-beer-bandit.html
+- https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
+- https://github.com/lilianweng/multi-armed-bandit/blob/master/solvers.py
+- https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html
+- https://towardsdatascience.com/solving-multiarmed-bandits-a-comparison-of-epsilon-greedy-and-thompson-sampling-d97167ca9a50?gi=bc17d5acd6f7
+- https://jamesmccaffrey.wordpress.com/2017/09/29/thompson-sampling-explained-using-an-example/
+- https://www.analyticsvidhya.com/blog/2018/09/reinforcement-multi-armed-bandit-scratch-python/
+- https://www.analyticsindiamag.com/thompson-sampling-explained-with-python-code/
+- https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
