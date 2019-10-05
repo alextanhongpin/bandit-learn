@@ -58,6 +58,8 @@ What is the goal of bandit algorithm first?
 8. Extreme values 
     1. able to find out fraudulent transactions in banking/finance sector (anomaly detection)
     2. Optimistic investment
+9. Content and SEO
+    1. Find the performance of two different article headline that targets different target audience
 
 https://www.quora.com/In-what-kind-of-real-life-situations-can-we-use-a-multi-arm-bandit-algorithm
 
